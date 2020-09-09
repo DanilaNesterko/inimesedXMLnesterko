@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<autod>
+  <auto>
+    <perenimi>Merkulova</perenimi>
+    <reg>152 BRV</reg>
+    <mark>Ford</mark>
+  </auto>
+  <auto>
+    <perenimi>Gorodnitsev</perenimi>
+    <reg>281 MDO</reg>
+    <mark>Ferrari</mark>
+  </auto>
+  <auto>
+    <perenimi>Rudnev</perenimi>
+    <reg>228 PIV</reg>
+    <mark>BMW</mark>
+  </auto>
+  <auto>
+    <perenimi>Timofeev</perenimi>
+    <reg>332 BOS</reg>
+    <mark>BMW</mark>
+  </auto>
+  <auto>
+    <perenimi>Oleynik</perenimi>
+    <reg>845 AYE</reg>
+    <mark>Toiota</mark>
+  </auto>
+  <auto>
+    <perenimi>Ivanov</perenimi>
+    <reg>482 HSR</reg>
+    <mark>Toiota</mark>
+  </auto>
+  <auto>
+    <perenimi>Kilinskas</perenimi>
+    <reg>429 PHP</reg>
+    <mark>Hundai</mark>
+  </auto>
+  <auto>
+    <perenimi>Nesterko</perenimi>
+    <mark>Ferrari</mark>
+  </auto>
+  <auto>
+    <perenimi>Pautova</perenimi>
+    <mark>Hundai</mark>
+  </auto>
+  <auto>
+    <perenimi>Kruume</perenimi>
+    <mark>Ferrari</mark>
+  </auto>
+
+</autod>
